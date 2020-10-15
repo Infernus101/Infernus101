@@ -16,7 +16,6 @@
 [twitter]: https://twitter.com/Infernus101
 [youtube]: https://youtube.com/Infernus101
 [spotify]: https://open.spotify.com/user/tl1m5pvcrh6hkclq83psfpbkj?si=Cf560h_LRN-uqRrLBeQUgg
-<br>
 
 #### Discord: Infernus#9511
 #### Mail: Infernusmcpe@gmail.com
