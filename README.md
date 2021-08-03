@@ -1,6 +1,7 @@
 ### Hi there, I'm Infernus 👋
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/Infernus101?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FInfernus101&screen_name=Infernus101) 
+[![Discord Server](https://img.shields.io/discord/843676822108766238.svg?label=Fallentech&logo=Discord&colorB=7289da&style=for-the-badge)](https://discord.com/invite/C9UvHYvW29)
 
 ![Infernus's github stats](https://github-readme-stats-lake-ten.vercel.app/api?username=Infernus101&theme=dark&show_icons=true&title_color=fff&text_color=fff&count_private=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats-lake-ten.vercel.app/api/top-langs/?username=Infernus101&theme=dark&show_icons=true&title_color=fff&text_color=fff&count_private=true&include_all_commits=true&langs_count=3)
