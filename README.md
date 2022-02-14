@@ -17,5 +17,9 @@
 [youtube]: https://youtube.com/Infernus101
 [spotify]: https://open.spotify.com/user/tl1m5pvcrh6hkclq83psfpbkj?si=Cf560h_LRN-uqRrLBeQUgg
 
+<img src="https://komarev.com/ghpvc/?username=Infernus101&style=flat-square&color=blue">
+
+<img src ="https://discord.c99.nl/widget/theme-1/704290095594733588.png">
+
 #### Discord: Infernus#9511
 #### Mail: Infernusmcpe@gmail.com
