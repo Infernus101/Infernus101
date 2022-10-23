@@ -21,5 +21,5 @@
 
 <img src ="https://discord.c99.nl/widget/theme-1/704290095594733588.png">
 
-#### Discord: Infernus#9511
+#### Discord: Infernus#4815
 #### Mail: Infernusmcpe@gmail.com
